@@ -1,0 +1,5 @@
+DATABASE_GDOWN_ID=1U45XR24KjiWchGW4Vc5K2H-WzW0pq0Xy
+analysis_frame_in_s_ = 20
+zf_trend_removal_dur_samples_ = 800
+margin_for_buffer_ = 0
+tolerance_win_for_results_in_ms_ = 60 #(in ms)
